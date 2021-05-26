@@ -1,0 +1,48 @@
+.navlink{
+   color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 40px;
+  }
+  .navlink:hover{
+    color:rgb(187, 0, 0);
+    text-decoration: none;
+    
+  }
+.navlink1{
+  color: rgb(0, 0, 0);
+  margin-left: 40px;
+ font-size: 18px;
+ font-weight: 500
+}
+.navlink1:hover{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+font-size: 19px;
+}
+  
+  .bg{
+    background-color:#ffffff;
+  }
+  
+  .logo{
+    margin-left: 20px;
+    height:50px ;
+    width: 50px;
+    border-radius: 100%;
+  }
+  .nav{
+    background-color: #EFF0F3;
+    padding: 10px;
+  }
+  .navtext{
+    margin-left: 40px;
+   
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+
+  }
+  .navtext:hover{
+    font-size: 19px;
+    color: #797979;
+  }
