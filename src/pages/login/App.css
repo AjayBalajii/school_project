@@ -15,8 +15,8 @@
     padding: 10px;
   }
   .navtext{
-    margin-left: 40px;
-   
+    margin-left: 20px;
+margin-right: 20px;   
     font-size: 20px;
     text-decoration: none;
     font-weight: 500;
@@ -37,32 +37,36 @@
     border-radius: 100%;
   }
 .homebg{
-  background-image: linear-gradient(rgb(33, 7, 94), white);
-    border-radius: 0px 125px 0px 0px;
+  box-shadow:0px 2px 6px 2px rgb(129, 129, 129);
+  background-color: white;
+  border-style: none;
+  border-radius: 25px;
+}
+.card{
+  height:500px;
 }
  .nn{
-   height: 400px;
-   width: 600px;
-   
+  
  }
  .quote{
    font-size: 40px;
-   color:white;
-   padding: 150px;
+   color:rgb(0, 0, 0);
+ 
+   
 text-align: center;
-   margin-right: -100px;
+  
    font-weight: bold;
       font-family:" Brush Script MT, Brush Script Std, cursive	";
  }
  .quotebg{
    background-color: white;
-   border-radius:0px  345px 0px 0px;
-   margin-top: -50px;
+   
+   
  }
  .cc{
    padding-top: 40px;
    text-align: center;
-   font-size: 40px;
+  
    font-weight:500px ;
    background: -webkit-linear-gradient(rgb(129, 0, 123), rgb(58, 10, 170));
   -webkit-background-clip: text;
@@ -78,8 +82,19 @@ text-align: center;
  
  }
  .topbg{
-   background-color: #afafaf;
+  
  }
  .footer{
    background-color: blueviolet;
  }
+ .btn{
+   color: white;
+   background-color: blueviolet;
+ }
+.tx{
+  text-decoration: none;
+  color:#797979;
+}
+.tx:hover{
+  color: black;
+}
