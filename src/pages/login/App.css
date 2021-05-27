@@ -1,24 +1,4 @@
-.navlink{
-   color: rgb(255, 255, 255);
-    text-decoration: none;
-    margin-left: 40px;
-  }
-  .navlink:hover{
-    color:rgb(187, 0, 0);
-    text-decoration: none;
-    
-  }
-.navlink1{
-  color: rgb(0, 0, 0);
-  margin-left: 40px;
- font-size: 18px;
- font-weight: 500
-}
-.navlink1:hover{
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-font-size: 19px;
-}
+
   
   .bg{
     background-color:#ffffff;
@@ -40,9 +20,66 @@ font-size: 19px;
     font-size: 20px;
     text-decoration: none;
     font-weight: 500;
+    background: -webkit-linear-gradient(rgb(129, 0, 123), rgb(58, 10, 170));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 
   }
   .navtext:hover{
     font-size: 19px;
     color: #797979;
   }
+  .course-logo{
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 100%;
+  }
+.homebg{
+  background-image: linear-gradient(rgb(33, 7, 94), white);
+    border-radius: 0px 125px 0px 0px;
+}
+ .nn{
+   height: 400px;
+   width: 600px;
+   
+ }
+ .quote{
+   font-size: 40px;
+   color:white;
+   padding: 150px;
+text-align: center;
+   margin-right: -100px;
+   font-weight: bold;
+      font-family:" Brush Script MT, Brush Script Std, cursive	";
+ }
+ .quotebg{
+   background-color: white;
+   border-radius:0px  345px 0px 0px;
+   margin-top: -50px;
+ }
+ .cc{
+   padding-top: 40px;
+   text-align: center;
+   font-size: 40px;
+   font-weight:500px ;
+   background: -webkit-linear-gradient(rgb(129, 0, 123), rgb(58, 10, 170));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+ }
+ .ch{
+   margin-top: 30px;
+   margin-bottom: 10px;
+   background: -webkit-linear-gradient(rgb(129, 0, 123), rgb(58, 10, 170));
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+ 
+ }
+ .topbg{
+   background-color: #afafaf;
+ }
+ .footer{
+   background-color: blueviolet;
+ }
